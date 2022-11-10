@@ -4,8 +4,7 @@
 
 ![unnamed](https://user-images.githubusercontent.com/65973879/201045222-ed73f55f-1436-45d5-b95b-785aa040e937.png)
 
-> The text of 
-> the challenge.
+> This challenge is easy one as you just need to use the online DH calculator >_< 
 
 ## Solution
 
