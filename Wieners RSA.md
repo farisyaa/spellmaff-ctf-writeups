@@ -2,7 +2,7 @@
 
 * **Category:** Cryptography
 
-
+![WIENER RSA](https://user-images.githubusercontent.com/65973879/201049021-a3994620-baec-42ee-9e94-c9caf1f399a4.png)
 
 ## Solution
 
