@@ -8,7 +8,7 @@
 
 ## Solution
 
-1. Open the website and it redirects here.
+1. Open the website and it redirects here.(without the flag tho)
 
 ![mfsql2](https://user-images.githubusercontent.com/65973879/201051592-27d68dc6-4a02-456f-b487-c0dde57dd4b4.png)
 
